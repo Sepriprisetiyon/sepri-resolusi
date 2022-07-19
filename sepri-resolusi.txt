@@ -1,3 +1,4 @@
 sepri resolusi
 - konsisten membuat konten  git dan github
 - belajar git dan github pada chnnel youtube pak sandika galih
+- fokus untuk belajar git sampai expert
